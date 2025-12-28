@@ -7,9 +7,6 @@
 extern "C" {
 #endif
 
-extern void action_opt1(lv_event_t * e);
-extern void action_opt2(lv_event_t * e);
-extern void action_opt3(lv_event_t * e);
 
 
 #ifdef __cplusplus
