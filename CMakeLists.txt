@@ -37,4 +37,4 @@ target_link_libraries(index
     lvgl
 )
 
-set_target_properties(index PROPERTIES LINK_FLAGS "--shell-file ${PROJECT_SOURCE_DIR}/index.html -s SINGLE_FILE=1")
+set_target_properties(index PROPERTIES LINK_FLAGS "--shell-file ${PROJECT_SOURCE_DIR}/index.html")
