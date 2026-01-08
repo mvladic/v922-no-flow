@@ -24,7 +24,7 @@
 #endif
 
 #include "src/ui/ui.h"
-#include "src/ui/screens.h"
+//#include "src/ui/screens.h"
 
 static int monitor_hor_res, monitor_ver_res;
 
